@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "GFC Recomenda"
 permalink: /GFC_Recomenda/
