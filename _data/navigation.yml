@@ -1,27 +1,27 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
+  
+  - title: "Membros"
+    url: /membros/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projetos"
+    url: /portfolio/   
+    
+  - title: "Tutoriais?"
+    url: /teaching/        
         
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "Membros"
-    url: /membros/
+  - title: "GFC Recomenda"
+    url: /GFC_Recomenda/
     
-   - title: "Blog Posts"
-     url: /year-archive/
-      
-    
+
+   #- title: "Publications"
+  #  url: /publications/
+
+  #- title: "Talks"
+  #  url: /talks/     
   #- title: "CV"
   #  url: /cv/
     
