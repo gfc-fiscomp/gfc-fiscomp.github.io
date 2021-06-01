@@ -1,23 +1,18 @@
 # main links links
 main:
-  
   - title: "Membros"
-    url: /membros/
-    
+    url: /membros/    
   - title: "Projetos"
-    url: /portfolio/   
-    
+    url: /portfolio/       
   - title: "Tutoriais?"
-    url: /teaching/        
-        
+    url: /teaching/    
   - title: "Blog Posts"
     url: /year-archive/
-    
   - title: "GFC Recomenda"
     url: /GFC_Recomenda/
     
 
-   #- title: "Publications"
+  #- title: "Publications"
   #  url: /publications/
 
   #- title: "Talks"
