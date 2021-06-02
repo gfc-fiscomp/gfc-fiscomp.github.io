@@ -14,7 +14,7 @@ O GFC tem como objetivo fortalecer a comunidade de alunos, fortalecendo laços e
 
 Nossas atividades incluem: reuniões semanais, journal clubs, participação em Hackathons e produção de tutoriais e projetos.  Tudo isso em conjunto com um discord muito ativo e informativo ;). Estamos também organizando a I Escola de Inverno de Física Computacional, mais detalhes em breve!
 
-Se interessou? Faça parte!
+Se interessou? [Faça parte!](https://docs.google.com/forms/u/2/d/e/1FAIpQLSf7Sdbl3MiRGJKav5JRwPb61HzWJ7OUOZ2Kt3vXS3sIESBRhw/viewform)
 
 Níveis:
 ---------------
