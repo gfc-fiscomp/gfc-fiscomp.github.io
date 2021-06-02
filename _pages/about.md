@@ -20,10 +20,10 @@ Níveis:
 ---------------
 Para melhor comportar pessoas em diferentes estágios de aprendizado, dividimos o GFC em três níveis:
 
--Iniciante: Aluno no começo de curso, com pouca ou nenhuma experiência em programação, recomendamos estar cursando Introdução à Programação ou Métodos de Computacionais da Física A.
+- Iniciante: Aluno no começo de curso, com pouca ou nenhuma experiência em programação, recomendamos estar cursando Introdução à Programação ou Métodos de Computacionais da Física A.
 
--Intermediário: Já tem certa experiência, como por exemplo ter cursado MetCompA, e possivelmente estar cursando MetcompB.
+- Intermediário: Já tem certa experiência, como por exemplo ter cursado MetCompA, e possivelmente estar cursando MetcompB.
 
--Avançado: Estudantes das últimas fases do curso e ou com noções boas de computação/programação.
+- Avançado: Estudantes das últimas fases do curso e ou com noções boas de computação/programação.
 
 Lembrando que essa é uma autoavaliação, e não é **fixa**. Você pode participar das discussões de qualquer nível, e o incentivamos que o faça!
