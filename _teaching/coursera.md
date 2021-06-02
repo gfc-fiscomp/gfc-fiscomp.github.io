@@ -7,5 +7,4 @@ date: 2021-06-01
 venue: Coursera
 location: "Cousera.com"
 ---
-
-PEDINDO AUXILIO
+Acesse aqui nosso tutorial sobre como conseguir certificados de graça no Coursera.
