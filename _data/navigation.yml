@@ -4,13 +4,13 @@ main:
     url: /membros/    
   - title: "Projetos"
     url: /portfolio/       
-  - title: "Tutoriais?"
-    url: /teaching/    
-  - title: "Blog Posts"
-    url: /year-archive/
   - title: "GFC Recomenda"
     url: /GFC_Recomenda/
-    
+  - title: "Tutoriais"
+    url: /teaching/    
+  - title: "Blog"
+    url: /year-archive/
+
 
   #- title: "Publications"
   #  url: /publications/
