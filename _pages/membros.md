@@ -16,7 +16,7 @@ Estudante de Bacharelado em Física na UFRGS. Pesquisa sobre aplicações de apr
 Estudante de Bacharelado em Astrofísica na UFRGS e do Tecnólogo em Análise e Desenvolvimento de Sistemas na Estácio de Sá. Experiência em automatização de processos e é Trader nas horas vagas. [Github](https://github.com/mgteus)
 
 #### João Vitor Oliveski Mesquita
-Estuda física na UFRGS e tem interesse por simulações de Monte Carlo com Cadeias de Markov. [Github](https://github.com/oliveski)
+Estudante de Bacharelado em Física na UFRGS e tem interesse por simulações de Monte Carlo com Cadeias de Markov. [Github](https://github.com/oliveski)
 
 #### Pedro Henrique Mendes Duarte
 Otaku. [Página pessoal](https://lief.if.ufrgs.br/~pedhmendes/)
