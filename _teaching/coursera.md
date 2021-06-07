@@ -7,4 +7,4 @@ date: 2021-06-01
 venue: Coursera
 location: "Cousera.com"
 ---
-Acesse aqui nosso tutorial sobre como conseguir certificados de graça no Coursera.
+Acesse aqui nosso tutorial sobre como conseguir desconto integral no valor dos certificados no Coursera.
