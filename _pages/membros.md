@@ -18,5 +18,6 @@ Estudante de Bacharelado em Astrofísica na UFRGS e do Tecnólogo em Análise e 
 #### João Vitor Oliveski Mesquita
 Estudante de Bacharelado em Física na UFRGS e tem interesse por simulações de Monte Carlo com Cadeias de Markov. [Github](https://github.com/oliveski)
 
-#### Pedro Henrique Mendes Duarte
-Otaku. [Página pessoal](https://lief.if.ufrgs.br/~pedhmendes/)
+#### Pedro Henrique Mendes 
+Estudante de Bacharelado em Física na UFRGS. Tem interesse em Física Estatística, Machine Learning e Simulações de Monte Carlo. Otaku, gremista e lolzeiro.  [Página pessoal](https://lief.if.ufrgs.br/~pedhmendes/) [Github](https://github.com/pedhmendes) 
+
