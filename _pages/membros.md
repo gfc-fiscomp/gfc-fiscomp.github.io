@@ -17,7 +17,7 @@ Estudante de Bacharelado em Física na UFRGS. Pesquisa sobre aplicações de apr
 [Github](https://github.com/zysymu)
 
 #### Mateus Guimarães
-Estudante de Bacharelado em Astrofísica na UFRGS e do Tecnólogo em Análise e Desenvolvimento de Sistemas na Estácio de Sá. Experiência em automatização de processos e é Trader nas horas vagas.
+Estudante de Bacharelado em Astrofísica na UFRGS e do Tecnólogo em Análise e Desenvolvimento de Sistemas na Estácio de Sá. Experiência em automatização de processos.
 
 [Github](https://github.com/mgteus)
 
