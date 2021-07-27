@@ -8,22 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Olá! Somos o Grupo de Física Computacional da UFRGS, um coletivo de estudantes interessados em aplicar conceitos físicos em simulações e modelagens computacionais.
 
-O GFC tem como objetivo fortalecer a comunidade de alunos, fortalecendo laços e criando uma rede de apoio. De fato, temos integrantes que estudam os mais diversos temas, desde Ciência de Dados à Teoria dos Jogos.
+Olá! Somos o Grupo de Física Computacional da UFRGS, um coletivo de estudantes de física interessados em por diferentes tópicos de computação, aplicados tanto fora quanto dentro da física!
 
-Nossas atividades incluem: reuniões semanais, journal clubs, participação em Hackathons e produção de tutoriais e projetos.  Tudo isso em conjunto com um discord muito ativo e informativo ;). Estamos também organizando a I Escola de Inverno de Física Computacional, mais detalhes em breve!
+O GFC tem como objetivo fortalecer a comunidade de alunos, fortalecendo laços e criando uma rede de apoio. De fato, temos integrantes que estudam os mais diversos temas, desde Ciência de Dados & Machine Learning à Teoria dos Jogos.
 
-Se interessou? [Faça parte!](https://docs.google.com/forms/u/2/d/e/1FAIpQLSf7Sdbl3MiRGJKav5JRwPb61HzWJ7OUOZ2Kt3vXS3sIESBRhw/viewform)
+Nossas atividades incluem: reuniões semanais, journal clubs, participação em Hackathons e produções de projetos. Tudo isso em conjunto com um discord muito ativo e informativo.
+Se interessou? Faça parte!
 
-Níveis:
----------------
-Para melhor comportar pessoas em diferentes estágios de aprendizado, dividimos o GFC em três níveis:
-
-- Iniciante: Aluno no começo de curso, com pouca ou nenhuma experiência em programação, recomendamos estar cursando Introdução à Programação ou Métodos de Computacionais da Física A.
-
-- Intermediário: Já tem certa experiência, como por exemplo ter cursado MetCompA, e possivelmente estar cursando MetcompB.
-
-- Avançado: Estudantes das últimas fases do curso e ou com noções boas de computação/programação.
-
-Lembrando que essa é uma autoavaliação, e não é **fixa**. Você pode participar das discussões de qualquer nível, e o incentivamos que o faça!
+https://discord.gg/XPC44KuvQY
