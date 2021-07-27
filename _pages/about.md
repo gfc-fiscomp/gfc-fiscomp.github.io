@@ -16,6 +16,8 @@ O GFC tem como objetivo fortalecer a comunidade de alunos, fortalecendo laços e
 Nossas atividades incluem: reuniões semanais, journal clubs, participação em Hackathons e produções de projetos. Tudo isso em conjunto com um discord muito ativo e informativo.
 Se interessou? [Faça parte!](https://discord.gg/XPC44KuvQY)
 
-
-
-<embed src="https://gfc-fiscomp.github.io/files/Intro.pdf" type="application/pdf" />
+<object data="https://gfc-fiscomp.github.io/files/Intro.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://gfc-fiscomp.github.io/files/Intro.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://gfc-fiscomp.github.io/files/Intro.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
