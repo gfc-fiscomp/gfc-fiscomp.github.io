@@ -12,6 +12,6 @@ Acesse aqui nosso tutorial sobre como conseguir desconto integral no valor dos c
 
 <object data="https://gfc-fiscomp.github.io/files/Coursera.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://gfc-fiscomp.github.io/files/Coursera.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://gfc-fiscomp.github.io/files/Coursera.pdf">Download PDF</a>.</p>
     </embed>
 </object>
